@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A pack made for Pool Potatoes+",
+        "name": "Pool Potatoes Resource Pack",
+        "uuid": "4b2f31d5-44f4-4db8-8c52-1d605733ee5d",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 60 ]
+    },
+    "modules": [
+        {
+            "description": "A pack made for Pool Potatoes+",
+            "type": "resources",
+            "uuid": "dadad767-6ced-48de-850b-7cfd8c20d288",
+            "version": [0, 0, 1]
+        }
+    ]
+}
